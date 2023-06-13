@@ -28,5 +28,5 @@ Com base em suas preferências de leitura e histórico de uso, o Bibli.on oferec
 
 Para começar a explorar o Bibli.on, siga estes passos simples:
 
-1. Acesse o site do Bibli.on em [www.biblion.com](https://www.biblion.com).
+1. Acesse o site do Bibli.on em [##www.biblion.com](###https://www.biblion.com).
 2. Crie uma conta gratuita ou faça login
